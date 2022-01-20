@@ -11,4 +11,13 @@
 
 ### About me
 - 👨🏻‍🎓 B.S. Computer Engineering student 
-- 👨🏻‍💻 Software Developer at <img height=10 src="https://img.shields.io/badge/ford-FFFFFF?logo=ford&style=for-the-badge&logoColor=00274E">
+- 👨🏻‍💻 Android Automotive Developer at Ford Motor Company
+- 🧩 Hobbies: cycling 🚴‍♂️, coding 💻, music 🎧, piano 🎹 and gaming 🎮
+
+### Interests
+- 📱 Mobile app development
+- 🐧 Linux OS development
+- 🤖 Android Automotive OS development
+- 🎮 Game development
+- 🧠 Artificial Intelligence
+- 🔉 Digital Signal Processing
