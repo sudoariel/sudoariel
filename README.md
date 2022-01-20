@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ariel
+## Hi there 👋 I am Ariel
 ![](https://visitor-badge.laobi.icu/badge?page_id=sudoariel.sudoariel)
 [![Github](https://img.shields.io/github/followers/sudoariel?label=Follow&style=social)](https://github.com/sudoariel)<br>
 
