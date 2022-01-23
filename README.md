@@ -27,4 +27,4 @@
 
 ### GitHub stats
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoariel&count_private=true&show_icons=true&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoariel&layout=compact&langs_count=8&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoariel&langs_count=8&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false)
