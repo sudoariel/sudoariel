@@ -21,3 +21,8 @@
 - 🎮 Game development
 - 🧠 Artificial Intelligence
 - 🔉 Digital Signal Processing
+- 👨‍💻 Embedded systems
+
+### Languages and tools
+
+### GitHub stats
