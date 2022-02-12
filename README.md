@@ -11,7 +11,7 @@
 
 ### About me
 - 👨🏻‍🎓 B.S. Computer Engineering student 
-- 👨🏻‍💻 Android Automotive OS Developer at Ford Motor Company
+- 👨🏻‍💻 Android Automotive OS Developer
 - 🧩 Hobbies: cycling 🚴‍♂️, coding 💻, music 🎧, piano 🎹 and gaming 🎮
 
 ### Interests
