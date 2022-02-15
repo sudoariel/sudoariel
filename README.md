@@ -28,3 +28,4 @@
 ### GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=sudoariel&count_private=true&show_icons=true&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false&card_width=500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoariel&langs_count=8&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false&card_width=495">
+<img src="https://activity-graph.herokuapp.com/graph?username=sudoariel&bg_color=def2f1&color=2b7a78&line=2b7a78&hide_border=true&area=true&area_color=3aafa9&point=222222">
